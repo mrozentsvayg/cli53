@@ -1,4 +1,4 @@
-module github.com/barnybug/cli53
+module github.com/mrozentsvayg/cli53
 
 go 1.13
 
